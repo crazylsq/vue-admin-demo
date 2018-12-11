@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # vue-admin-demo 
-=======
-# vue-admin-demo
->>>>>>> 2c2a2a567e5f6f39950f1e24244c3baacb411392
-
 > A Vue.js project
 
 ## Build Setup
@@ -35,7 +30,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ### 页面图片
 ##登录页
-![image](https://github.com/crazylsq/vue-admin-demo/img/login.img)
+![image](https://github.com/crazylsq/vue-admin-demo/blob/master/img/login.png)
 
 ##Dashbborad
-![image](https://github.com/crazylsq/vue-admin-demo/img/Dashboard.img) 
+![image](https://github.com/crazylsq/vue-admin-demo/blob/master/img/Dashboard.png) 
