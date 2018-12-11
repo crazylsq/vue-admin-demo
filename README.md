@@ -34,3 +34,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ##Dashbborad
 ![image](https://github.com/crazylsq/vue-admin-demo/blob/master/img/Dashboard.png) 
+
+###后端登陆验证接口
+## 此项目的后端token验证接口使用golang写的，见项目go-token-login
