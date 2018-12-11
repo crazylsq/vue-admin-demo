@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# vue-admin-demo 
+=======
 # vue-admin-demo
+>>>>>>> 2c2a2a567e5f6f39950f1e24244c3baacb411392
 
 > A Vue.js project
 
@@ -28,3 +32,10 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### 页面图片
+##登录页
+![image](https://github.com/crazylsq/vue-admin-demo/img/login.img)
+
+##Dashbborad
+![image](https://github.com/crazylsq/vue-admin-demo/img/Dashboard.img) 
